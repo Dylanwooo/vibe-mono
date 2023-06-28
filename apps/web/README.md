@@ -1,10 +1,15 @@
 ## Getting Started
 
-First, run the development server:
+Install the dependencies and run the server
 
 ```bash
+yarn
 yarn dev
 ```
+
+## Features
+
+- Event delegation on the `token list`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
